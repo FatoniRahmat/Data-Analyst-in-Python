@@ -20,7 +20,7 @@ Hi! My name is Nur Fajri Fatoni Rahmat, just called me Toni. Here is my Portfoli
    https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Superstore_E_Commerce.ipynb
 
 
-**3. Olist Customer Segmentation**
+**2. Olist Customer Segmentation**
 
    This case is an example of the Olist E-Commerce Dataset, a type of simulation in which I perform extensive data analysis to provide insight into customer groups based on their behavior, so that companies can find marketing strategies based on their respective types or characteristics.
 
