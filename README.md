@@ -26,3 +26,12 @@ Hi! My name is Nur Fajri Fatoni Rahmat, just called me Toni. Here is my Portfoli
 
       https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Olist_E_Commerce.ipynb
    
+   3. Travel Insurance
+
+      This case is an example of the Olist E-Commerce Dataset, a type of simulation in which I perform extensive data analysis to provide insight
+
+      https://github.com/FatoniRahmat/Portofolio-Data-Analyst-in-Python/blob/main/Travel_Insurance.ipynb
+
+**Visualization**
+
+https://public.tableau.com/app/profile/fatoni.rahmat/vizzes
