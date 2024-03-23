@@ -28,7 +28,7 @@ Hi! My name is Nur Fajri Fatoni Rahmat, just called me Toni. Here is my Portfoli
    
    3. Travel Insurance
 
-      This case is an example of the Olist E-Commerce Dataset, a type of simulation in which I perform extensive data analysis to provide insight
+      This case is an example of a Travel Insurance Dataset, a type of simulation in which I conduct extensive data analysis to provide insight to companies in discovering what criteria might be determining factors for someone to make an insurance claim.
 
       https://github.com/FatoniRahmat/Portofolio-Data-Analyst-in-Python/blob/main/Travel_Insurance.ipynb
 
