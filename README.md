@@ -3,7 +3,7 @@
 Hi! My name is Nur Fajri Fatoni Rahmat, just called me Toni. Here is my Portfolio as Data Analyst, please check it out!
 
 **Data Cleansing**
-1. https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Game.ipynb
+1. [Game](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Game.ipynb)
 2. https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Movie.ipynb
 
 **Exploratory Data Analysis**
