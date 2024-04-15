@@ -13,17 +13,17 @@ A truly thorough data cleanse, following these basic steps:
 4. Handle missing data.
 5. Validate and QA.
 
-Project Link
+Project Link:
 1. [Game Dataset](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Game.ipynb)
 2. [Movie Dataset](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Movie.ipynb)
 
 ---
 
-**Exploratory Data Analysis**
+**Exploratory Data Analysis (EDA)**
 
 EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
 
-Project Link
+Project Link:
 1. [AirBnB Analysis](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/AirBnB_Analysis.ipynb)
 2. [Supermarket Sales](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Supermarket_Sales.ipynb)
 3. [TheLook Sales](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/TheLook_Sales.ipynb)
@@ -55,9 +55,11 @@ This is the use of past and current project data to enable effective decisions o
 
 ---
 
-**Structured query language (SQL)**
+**Structured Query Language (SQL)**
 
-Project Link
+A programming language for storing, updating, deleting, searching, and retrieving information from databases.
+
+Project Link:
 1. [TheLook E-Commerce](https://console.cloud.google.com/bigquery?sq=946903545661:0240db9a5bcb4b95a895d9731c6332e2)
 2. [San Francisco Bikeshare](https://console.cloud.google.com/bigquery?sq=946903545661:6c7f257d923047dfac3d708d2ab3e071)
 3. [San Francisco Bikeshare Data Trip](https://console.cloud.google.com/bigquery?sq=946903545661:d9cb436e3c84427ab46410fa8800f302)
@@ -67,15 +69,17 @@ Project Link
 ---
 
 
-**Visualization**
+**Data Visualization**
 
-Project Link
+Data visualization is a graphical representation of information and data. By using visual elements such as charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Data visualization in the form of dashboards is a tool that many businesses use to analyze and share information.
+
+Project Link:
 1. [AirBnB Singapore Monitoring Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBSingaporeMonitoringDashboard/MonitoringDashboard)
 2. [AirBnB Singapore Listings Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBSingaporeListings_17126456021790/AirBnBSingaporeListings)
 3. [AirBnB New York City Listings Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBNewYorkCityListings/AirBnBNYCListings)
-4. [The Look E-Commerce Customer Segmentation Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/TheLookE-CommerceRFMSegment/Dashboard1)
+4. [TheLook E-Commerce Customer Segmentation Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/TheLookE-CommerceRFMSegment/Dashboard1)
 5. [Olist Brazilian E-Commerce Sales Overview Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/Olist_Sales_Overview/Dashboard1)
 6. [Superstore E-Commerce Profit and Sales Performance Report Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/SuperstoreE-CommerceProfitandSalesPerformanceReport/Dashboard1)
-7. [E-CommerceU KPI Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/EcommerceUKPIDashboard_17124743340170/Home)
+7. [E-CommerceU KPI Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/EcommerceUKPIDashboard_17124743340170/Home?publish=yes)
 
 [Tableau Profile](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
