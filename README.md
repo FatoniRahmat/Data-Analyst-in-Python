@@ -1,4 +1,3 @@
----
 **Data Analytics Portfolio by Nur Fajri Fatoni Rahmat**
 
 Hi! My name is *Nur Fajri Fatoni Rahmat*, just called me Toni. Here is my *Portfolio as Data Analyst*, please check it out!
@@ -56,11 +55,11 @@ This is the use of past and current project data to enable effective decisions o
 **Structured query language (SQL)**
 
 Project Link
-[TheLook Ecommerce](https://console.cloud.google.com/bigquery?sq=946903545661:0240db9a5bcb4b95a895d9731c6332e2)
-[San Francisco Bbikeshare](https://console.cloud.google.com/bigquery?sq=946903545661:6c7f257d923047dfac3d708d2ab3e071)
-[San Francisco Bbikeshare Data Trip](https://console.cloud.google.com/bigquery?sq=946903545661:d9cb436e3c84427ab46410fa8800f302)
-[San Francisco Bbikeshare Total Trip](https://console.cloud.google.com/bigquery?sq=946903545661:2cf07061dc6b4bb0ad9e186a4f40c143)
-[San Francisco Bbikeshare Average Duration](https://console.cloud.google.com/bigquery?sq=946903545661:5934124d450e4cc283cd93758532b15f)
+1. [TheLook Ecommerce](https://console.cloud.google.com/bigquery?sq=946903545661:0240db9a5bcb4b95a895d9731c6332e2)
+2. [San Francisco Bbikeshare](https://console.cloud.google.com/bigquery?sq=946903545661:6c7f257d923047dfac3d708d2ab3e071)
+3. [San Francisco Bbikeshare Data Trip](https://console.cloud.google.com/bigquery?sq=946903545661:d9cb436e3c84427ab46410fa8800f302)
+4. [San Francisco Bbikeshare Total Trip](https://console.cloud.google.com/bigquery?sq=946903545661:2cf07061dc6b4bb0ad9e186a4f40c143)
+5. [San Francisco Bbikeshare Average Duration](https://console.cloud.google.com/bigquery?sq=946903545661:5934124d450e4cc283cd93758532b15f)
 
 ---
 
