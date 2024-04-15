@@ -19,36 +19,38 @@ Project Link
 ---
 
 **Exploratory Data Analysis**
+
 EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
 
 Project Link
 1. [AirBnB Analysis](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/AirBnB_Analysis.ipynb)
 2. [Supermarket Sales](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Supermarket_Sales.ipynb)
-3. [TheLook_Sales](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/TheLook_Sales.ipynb)
+3. [TheLook Sales](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/TheLook_Sales.ipynb)
 
 ---
 
 **Project Based Analytics**
+
 This is the use of past and current project data to enable effective decisions on project delivery. This includes: Descriptive analytics presenting data in the most effective format. Predictive analytics using past data to predict future performance.
 
    1. Superstore Sales Analysis
 
       This case is an example of a Superstore Dataset, a type of simulation in which I perform extensive data analysis to provide insight into how a company can increase its profits while minimizing losses.
 
-      [Superstore_E_Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Superstore_E_Commerce.ipynb)
+      [Superstore E Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Superstore_E_Commerce.ipynb)
 
 
    2. Olist Customer Segmentation
 
       This case is an example of the Olist E-Commerce Dataset, a type of simulation in which I perform extensive data analysis to provide insight into customer groups based on their behavior, so that companies can find marketing strategies based on their respective types or characteristics.
 
-      [Olist_E_Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Olist_E_Commerce.ipynb)
+      [Olist E Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Olist_E_Commerce.ipynb)
    
    3. Travel Insurance
 
       This case is an example of a Travel Insurance Dataset, a type of simulation in which I conduct extensive data analysis to provide insight to companies in discovering what criteria might be determining factors for someone to make an insurance claim.
 
-      [Travel_Insurance](https://github.com/FatoniRahmat/Portofolio-Data-Analyst-in-Python/blob/main/Travel_Insurance.ipynb)
+      [Travel Insurance](https://github.com/FatoniRahmat/Portofolio-Data-Analyst-in-Python/blob/main/Travel_Insurance.ipynb)
 
 ---
 
@@ -66,4 +68,13 @@ Project Link
 
 **Visualization**
 
-[Tableau](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
+Project Link
+1. [AirBnB Singapore Monitoring Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBSingaporeMonitoringDashboard/MonitoringDashboard)
+2. [AirBnB Singapore Listings Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBSingaporeListings_17126456021790/AirBnBSingaporeListings)
+3. [AirBnB New York City Listings Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/AirBnBNewYorkCityListings/AirBnBNYCListings)
+4. [The Look E-Commerce Customer Segmentation Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/TheLookE-CommerceRFMSegment/Dashboard1)
+5. [Olist Brazilian E-Commerce Sales Overview Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/Olist_Sales_Overview/Dashboard1)
+6. [Superstore E-Commerce Profit and Sales Performance Report Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/SuperstoreE-CommerceProfitandSalesPerformanceReport/Dashboard1)
+7. [E-CommerceU KPI Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/EcommerceUKPIDashboard_17124743340170/Home)
+
+[Tableau Profile](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
