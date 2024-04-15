@@ -5,6 +5,7 @@ Hi! My name is *Nur Fajri Fatoni Rahmat*, just called me Toni. Here is my *Portf
 ---
 
 **Data Cleansing**
+
 A truly thorough data cleanse, following these basic steps:
 1. Remove duplicate or irrelevant observations.
 2. Fix structural errors.
