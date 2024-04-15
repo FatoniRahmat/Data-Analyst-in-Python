@@ -38,14 +38,14 @@ This is the use of past and current project data to enable effective decisions o
 
       This case is an example of a Superstore Dataset, a type of simulation in which I perform extensive data analysis to provide insight into how a company can increase its profits while minimizing losses.
 
-      [Superstore E Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Superstore_E_Commerce.ipynb)
+      [Superstore E-Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Superstore_E_Commerce.ipynb)
 
 
    2. Olist Customer Segmentation
 
       This case is an example of the Olist E-Commerce Dataset, a type of simulation in which I perform extensive data analysis to provide insight into customer groups based on their behavior, so that companies can find marketing strategies based on their respective types or characteristics.
 
-      [Olist E Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Olist_E_Commerce.ipynb)
+      [Olist E-Commerce](https://github.com/FatoniRahmat/Data-Analyst-in-Python/blob/main/Olist_E_Commerce.ipynb)
    
    3. Travel Insurance
 
@@ -58,11 +58,11 @@ This is the use of past and current project data to enable effective decisions o
 **Structured query language (SQL)**
 
 Project Link
-1. [TheLook Ecommerce](https://console.cloud.google.com/bigquery?sq=946903545661:0240db9a5bcb4b95a895d9731c6332e2)
-2. [San Francisco Bbikeshare](https://console.cloud.google.com/bigquery?sq=946903545661:6c7f257d923047dfac3d708d2ab3e071)
-3. [San Francisco Bbikeshare Data Trip](https://console.cloud.google.com/bigquery?sq=946903545661:d9cb436e3c84427ab46410fa8800f302)
-4. [San Francisco Bbikeshare Total Trip](https://console.cloud.google.com/bigquery?sq=946903545661:2cf07061dc6b4bb0ad9e186a4f40c143)
-5. [San Francisco Bbikeshare Average Duration](https://console.cloud.google.com/bigquery?sq=946903545661:5934124d450e4cc283cd93758532b15f)
+1. [TheLook E-Commerce](https://console.cloud.google.com/bigquery?sq=946903545661:0240db9a5bcb4b95a895d9731c6332e2)
+2. [San Francisco Bikeshare](https://console.cloud.google.com/bigquery?sq=946903545661:6c7f257d923047dfac3d708d2ab3e071)
+3. [San Francisco Bikeshare Data Trip](https://console.cloud.google.com/bigquery?sq=946903545661:d9cb436e3c84427ab46410fa8800f302)
+4. [San Francisco Bikeshare Total Trip](https://console.cloud.google.com/bigquery?sq=946903545661:2cf07061dc6b4bb0ad9e186a4f40c143)
+5. [San Francisco Bikeshare Average Duration](https://console.cloud.google.com/bigquery?sq=946903545661:5934124d450e4cc283cd93758532b15f)
 
 ---
 
